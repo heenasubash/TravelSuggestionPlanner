@@ -24,7 +24,6 @@ A quiz-based travel suggestion app that recommends ideal destinations across Ind
 
 - Heena Subash
 - Puneet Krishna H
-- Rakin Areef S
 
 ## Docs
 
